@@ -4,8 +4,6 @@
 
 **한국외국어대학교 소프트웨어 중앙동아리**
 
-*만들고, 나누고, 함께 자란다.*
-
 [🌐 Website](https://gnuvil.org) · [📬 Contact](mailto:gnuvil@wdk.kr)
 
 </div>
