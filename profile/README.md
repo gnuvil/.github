@@ -8,19 +8,19 @@
 
 # What we do
 
-## Study
+### Study
 
 프로그래밍 기초부터 CS, 알고리즘, 백엔드 개발까지 관심사에 따라 스터디를 운영합니다.
 
-## Build
+### Build
 
 동아리방에서 사용할 도구를 만들거나, 각자 관심 있는 주제로 프로젝트를 진행합니다.
 
-## Self-host
+### Self-host
 
 직접 서버와 네트워크를 구성하고 운영합니다. Linux, 가상화, 컨테이너 등 다양한 인프라 기술을 실습하고 있습니다.
 
-## Contact
+### Contact
 [Contact](mailto:contact@gnuvil.org)
 
 <sub>© Gnuvil</sub>
